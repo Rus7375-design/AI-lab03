@@ -1,0 +1,3 @@
+AI use declaration
+
+I used Claude to help with this lab work. I used it to explain the structure of the assignment and the requirements for each part, compare my results with the notes in the notebook and help with the formulation of my predictions. I ran all the code cells in Google Colab myself, and the results in the notebook are my own runs. I wrote down the forecasts before launching the cells, but I used the help of artificial intelligence to formulate them, and edited them myself. The conclusions about chunking are based on the results I saw in Part 2. I used artificial intelligence to understand tasks by asking questions.
